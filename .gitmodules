@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "pressfreedom.data"]
+	path = pressfreedom.data
+	url = https://github.com/petzi53/pressfreedom.data
 [submodule "repairData"]
 	path = repairData
 	url = https://github.com/petzi53/repairdata
