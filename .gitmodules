@@ -8,6 +8,9 @@
 [submodule "pressfreedom.data"]
 	path = pressfreedom.data
 	url = https://github.com/petzi53/pressfreedom.data
+[submodule "qpost"]
+	path = qpost
+	url = https://github.com/petzi53/qpost
 [submodule "repairData"]
 	path = repairData
 	url = https://github.com/petzi53/repairdata
